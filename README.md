@@ -1,2 +1,5 @@
 # RNA-seq-Volcano-Plots
-Example of Volcano Plots for RNA seq Processed Data
+
+Simple example of Volcano Plots for RNA seq Processed Data
+
+And printing the highest Upregulated and Downregulated Genes
